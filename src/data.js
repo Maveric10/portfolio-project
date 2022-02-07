@@ -1,0 +1,32 @@
+export const products =[
+    {
+        id:1,
+        img:'https://images.pexels.com/photos/2726126/pexels-photo-2726126.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+        link:'https://google.com',
+    },
+    {
+        id:2,
+        img:'https://images.pexels.com/photos/1591060/pexels-photo-1591060.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+        link:'https://google.com',
+    },
+    {
+        id:3,
+        img:'https://images.pexels.com/photos/579471/pexels-photo-579471.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+        link:'https://google.com',
+    },
+    {
+        id:4,
+        img:'https://images.pexels.com/photos/533446/pexels-photo-533446.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+        link:'https://google.com',
+    },
+    {
+        id:5,
+        img:'https://images.pexels.com/photos/326503/pexels-photo-326503.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+        link:'https://google.com',
+    },
+    {
+        id:6,
+        img:'https://images.pexels.com/photos/270637/pexels-photo-270637.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+        link:'https://google.com',
+    },
+]
